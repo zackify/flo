@@ -29,6 +29,8 @@ docker run -d \
   --model small --language en
 ```
 
+I run this on a server with a GPU over Tailscale, and use whisper v3 large with great results.
+
 ### App
 
 1. Build and install the APK (or download from releases)
