@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flo</string>
+    <string name="accessibility_description">Flo uses accessibility to detect when you\'re in a text field and paste transcribed speech.</string>
+    <string name="pref_host">flo_host</string>
+    <string name="pref_port">flo_port</string>
+    <string name="pref_language">flo_language</string>
+</resources>
